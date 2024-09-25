@@ -1,6 +1,12 @@
 const Home = () => {
   return (
-    <div>Home</div>
+    <section className="py-24">
+      <div className="container">
+        <h1 className="text-3xl font-bold">
+          
+        </h1>
+      </div>
+    </section>
   )
 }
 
